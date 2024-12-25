@@ -1,4 +1,4 @@
-Import Export Data Analysis using Python
+#Import Export Data Analysis using Python
 Overview
 This project aims to explore and analyze data using Python, focusing on unsupervised learning techniques. The notebook includes detailed steps for data exploration, sampling, and analysis, culminating in actionable managerial insights and recommendations.
 
@@ -58,6 +58,6 @@ Supplier: Name of the supplier or manufacturer.
 Customer: Name of the customer or recipient.
 Invoice_Number: Unique invoice number for the transaction.
 Payment_Terms: Terms of payment (e.g., Net 30, Net 60, Cash on Delivery).
-Authors
+Authors:
 Sejal Raj  (055041)
 Vidushi Rawat (055056)
